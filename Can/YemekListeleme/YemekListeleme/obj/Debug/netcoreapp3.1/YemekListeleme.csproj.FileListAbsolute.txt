@@ -1,0 +1,13 @@
+/Users/can/Desktop/C# Vize/Münire/YemekListeleme/YemekListeleme/bin/Debug/netcoreapp3.1/YemekListeleme.deps.json
+/Users/can/Desktop/C# Vize/Münire/YemekListeleme/YemekListeleme/bin/Debug/netcoreapp3.1/YemekListeleme.runtimeconfig.json
+/Users/can/Desktop/C# Vize/Münire/YemekListeleme/YemekListeleme/bin/Debug/netcoreapp3.1/YemekListeleme.runtimeconfig.dev.json
+/Users/can/Desktop/C# Vize/Münire/YemekListeleme/YemekListeleme/bin/Debug/netcoreapp3.1/YemekListeleme.dll
+/Users/can/Desktop/C# Vize/Münire/YemekListeleme/YemekListeleme/bin/Debug/netcoreapp3.1/YemekListeleme.pdb
+/Users/can/Desktop/C# Vize/Münire/YemekListeleme/YemekListeleme/obj/Debug/netcoreapp3.1/YemekListeleme.csproj.AssemblyReference.cache
+/Users/can/Desktop/C# Vize/Münire/YemekListeleme/YemekListeleme/obj/Debug/netcoreapp3.1/YemekListeleme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/can/Desktop/C# Vize/Münire/YemekListeleme/YemekListeleme/obj/Debug/netcoreapp3.1/YemekListeleme.AssemblyInfoInputs.cache
+/Users/can/Desktop/C# Vize/Münire/YemekListeleme/YemekListeleme/obj/Debug/netcoreapp3.1/YemekListeleme.AssemblyInfo.cs
+/Users/can/Desktop/C# Vize/Münire/YemekListeleme/YemekListeleme/obj/Debug/netcoreapp3.1/YemekListeleme.csproj.CoreCompileInputs.cache
+/Users/can/Desktop/C# Vize/Münire/YemekListeleme/YemekListeleme/obj/Debug/netcoreapp3.1/YemekListeleme.dll
+/Users/can/Desktop/C# Vize/Münire/YemekListeleme/YemekListeleme/obj/Debug/netcoreapp3.1/YemekListeleme.pdb
+/Users/can/Desktop/C# Vize/Münire/YemekListeleme/YemekListeleme/obj/Debug/netcoreapp3.1/YemekListeleme.genruntimeconfig.cache
